@@ -46,4 +46,3 @@ temp.close()
 
 #execute and remove
 os.system('temp.bat')
-#os.remove('temp.bat')
